@@ -1,0 +1,65 @@
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.AssemblyInfo.cs
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.RazorAssemblyInfo.cache
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.RazorAssemblyInfo.cs
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\appsettings.json
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\angular with dotnet.staticwebassets.runtime.json
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\angular with dotnet.exe
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\angular with dotnet.deps.json
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\angular with dotnet.runtimeconfig.json
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\angular with dotnet.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\angular with dotnet.pdb
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\staticwebassets\msbuild.angular with dotnet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\staticwebassets\msbuild.build.angular with dotnet.props
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.angular with dotnet.props
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.angular with dotnet.props
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\scopedcss\bundle\angular with dotnet.styles.css
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\scopedcss\projectbundle\angular with dotnet.bundle.scp.css
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular .876FBBA6.Up2Date
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\refint\angular with dotnet.dll
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.pdb
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\angular with dotnet.genruntimeconfig.cache
+C:\Users\Student\Desktop\angular with dotnet\angular with dotnet\obj\Debug\net8.0\ref\angular with dotnet.dll

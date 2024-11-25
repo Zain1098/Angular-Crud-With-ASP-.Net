@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\angular with dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|solutionrelative:angular with dotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|solutionrelative:angular with dotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|c:\\users\\student\\desktop\\angular with dotnet\\angular with dotnet\\migrations\\20241121175835_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|solutionrelative:angular with dotnet\\migrations\\20241121175835_m2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|solutionrelative:angular with dotnet\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876FB57B-50C4-402B-AD62-A26BE7B7851A}|angular with dotnet\\angular with dotnet.csproj|solutionrelative:angular with dotnet\\models\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 309,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241121175835_m2.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Migrations\\20241121175835_m2.cs",
+              "RelativeDocumentMoniker": "angular with dotnet\\Migrations\\20241121175835_m2.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Migrations\\20241121175835_m2.cs",
+              "RelativeToolTip": "angular with dotnet\\Migrations\\20241121175835_m2.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:58:36.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Models\\Connection.cs",
+              "RelativeDocumentMoniker": "angular with dotnet\\Models\\Connection.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Models\\Connection.cs",
+              "RelativeToolTip": "angular with dotnet\\Models\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:24:22.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Program.cs",
+              "RelativeDocumentMoniker": "angular with dotnet\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Program.cs",
+              "RelativeToolTip": "angular with dotnet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:53:25.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "angular with dotnet\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "angular with dotnet\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAABAMzMzMzMlwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:31:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Models\\User.cs",
+              "RelativeDocumentMoniker": "angular with dotnet\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\Models\\User.cs",
+              "RelativeToolTip": "angular with dotnet\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:43:27.275Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 91,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
