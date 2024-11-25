@@ -16,15 +16,29 @@ namespace angular_with_dotnet.Controllers
         [HttpPost]
         public IActionResult Adduser(string name,string email,string password, IFormFile profile)
         {
-            
+            if (profile != null)
+            {
+                var filename=profile.FileName;
+                var path=Path.Combine(Directory.GetCurrentDirectory(),"wwwroot/images", filename);
+
+                using (FileStream stream = new FileStream(path, FileMode.Create))
+                {
+                    profile.CopyTo(stream);
+                }
+                User user = new User(0, name, email, password, filename);
+                db.Users.Add(user);
+                db.SaveChanges();
+            }
             return Ok();
         }
 
         public IActionResult Fetchuser()
         {
-            var user= db.Users.FirstOrDefault();
-            return Ok(user);
+            var users = db.Users.ToList();
+           
+            return Ok(users);
         }
+
         [HttpPut]
         public IActionResult update([FromBody] User user)
         {

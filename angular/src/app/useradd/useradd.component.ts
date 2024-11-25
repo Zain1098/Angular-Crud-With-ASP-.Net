@@ -40,7 +40,6 @@ form.append('profile',this.images as File);
 
 
 this.getservice.add(form).subscribe(data=>{
-  debugger;
   this.route.navigate(['fetchuser']);
 
 })

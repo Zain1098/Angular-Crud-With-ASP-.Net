@@ -5,15 +5,20 @@
         <th scope="col">Name</th>
         <th scope="col">Email</th>
         <th scope="col">Password</th>
+        <th scope="col">Images</th>
+
         <th scope="col">Action</th>
       </tr>
     </thead>
     <tbody>
-      <tr *ngIf="fetchdata">
-        <th scope="row">{{fetchdata.id}}</th>
-        <td>{{fetchdata.name}}</td>
-        <td>{{fetchdata.email}}</td>
-        <td>{{fetchdata.password}}</td>
+      <tr *ngFor="let item of fetchdata">
+        <th scope="row">{{item.id}}</th>
+        <td>{{item.name}}</td>
+        <td>{{item.email}}</td>
+        <td>{{item.password}}</td>
+        <td><img src="https://localhost:7061/images/{{item.image}}" alt="" srcset="" height="100" width="100" class="rounded"></td>
+
+
         <td><button class="btn btn-success mx-2" (click)="edit(fetchdata)">Edit</button>
             <button class="btn btn-danger">Delete</button>
         </td>

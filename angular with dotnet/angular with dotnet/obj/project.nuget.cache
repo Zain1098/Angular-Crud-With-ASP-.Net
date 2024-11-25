@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T3+hq3nGx0FVjzZ0O0nTpnNp6TN1Ll+/QhRlwuhaWQEpqESqj1epa3eWri8M+F2CJTAoXzvSDJ2130xHrurLwQ==",
+  "dgSpecHash": "+JDj1cOkqqgeUCC/V5dj02zIooiH6QmHqaICnK8cJHK8yWyJzr8lu+Q91I1NZBtRzL/1+/cl221G3aEoecvTUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Desktop\\angular with dotnet\\angular with dotnet\\angular with dotnet.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\angularcrud\\angular with dotnet\\angular with dotnet\\angular with dotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
