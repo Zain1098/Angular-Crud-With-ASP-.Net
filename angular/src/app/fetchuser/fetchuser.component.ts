@@ -34,4 +34,12 @@ this.getservice.update(this.selected).subscribe(data=>{
   this.selected=null
 })
 }
+delete(id:number){
+  if (confirm("Are you sure you want to delete?")) {
+    
+    this.getservice.delete(id).subscribe(data=>{
+      this.ngOnInit();
+    })
+  }
+}
 }

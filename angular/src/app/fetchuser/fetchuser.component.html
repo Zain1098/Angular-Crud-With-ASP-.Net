@@ -19,8 +19,8 @@
         <td><img src="https://localhost:7061/images/{{item.image}}" alt="" srcset="" height="100" width="100" class="rounded"></td>
 
 
-        <td><button class="btn btn-success mx-2" (click)="edit(fetchdata)">Edit</button>
-            <button class="btn btn-danger">Delete</button>
+        <td><button class="btn btn-success mx-2" (click)="edit(item)">Edit</button>
+            <button class="btn btn-danger" (click)="delete(item.id)">Delete</button>
         </td>
       </tr>
      

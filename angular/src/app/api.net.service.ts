@@ -19,4 +19,7 @@ url="https://localhost:7061/Home"
   update(data:any){
     return this.api.put(`${this.url}/update`,data)
   }
+  delete(id:number){
+    return this.api.delete(`${this.url}/Delete`,{body:id})
+  }
 }

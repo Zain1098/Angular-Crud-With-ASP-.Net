@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("angular with dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9a81c3712b293ec408fed7095429fc1f356c1d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5e21597f789dc5e4fee56795cebf5639b8a3c3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("angular with dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("angular with dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

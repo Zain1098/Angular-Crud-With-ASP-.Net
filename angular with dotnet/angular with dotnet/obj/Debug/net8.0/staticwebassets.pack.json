@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Student\\Desktop\\angularcrud\\angular with dotnet\\angular with dotnet\\wwwroot\\images\\Screenshot (28).png",
+      "PackagePath": "staticwebassets\\images\\Screenshot (28).png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\angularcrud\\angular with dotnet\\angular with dotnet\\wwwroot\\images\\Screenshot (29).png",
+      "PackagePath": "staticwebassets\\images\\Screenshot (29).png"
+    },
+    {
+      "Id": "C:\\Users\\Student\\Desktop\\angularcrud\\angular with dotnet\\angular with dotnet\\wwwroot\\images\\Screenshot (32).png",
+      "PackagePath": "staticwebassets\\images\\Screenshot (32).png"
+    },
+    {
       "Id": "C:\\Users\\Student\\Desktop\\angularcrud\\angular with dotnet\\angular with dotnet\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

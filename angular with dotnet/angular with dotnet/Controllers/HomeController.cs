@@ -50,9 +50,12 @@ namespace angular_with_dotnet.Controllers
             db.SaveChanges();
             return Ok();
         }
-        public IActionResult Privacy()
+        public IActionResult Delete([FromBody] int id)
         {
-            return View();
+            var delete = db.Users.Find(id);
+            db.Users.Remove(delete);
+            db.SaveChanges();
+            return Ok();
         }
 
         
